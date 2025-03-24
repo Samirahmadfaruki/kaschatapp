@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/kaschatapp/static/css/main.e6c13ad2.css",
-    "main.js": "/kaschatapp/static/js/main.1f7f0bad.js",
+    "main.js": "/kaschatapp/static/js/main.2643242c.js",
     "static/js/453.cdadf6e8.chunk.js": "/kaschatapp/static/js/453.cdadf6e8.chunk.js",
     "index.html": "/kaschatapp/index.html",
     "main.e6c13ad2.css.map": "/kaschatapp/static/css/main.e6c13ad2.css.map",
-    "main.1f7f0bad.js.map": "/kaschatapp/static/js/main.1f7f0bad.js.map",
+    "main.2643242c.js.map": "/kaschatapp/static/js/main.2643242c.js.map",
     "453.cdadf6e8.chunk.js.map": "/kaschatapp/static/js/453.cdadf6e8.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.1f7f0bad.js"
+    "static/js/main.2643242c.js"
   ]
 }
