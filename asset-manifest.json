@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/your-repo-namehttps://github.com/Samirahmadfaruki/kaschatapp/static/css/main.e6c13ad2.css",
+    "main.js": "/your-repo-namehttps://github.com/Samirahmadfaruki/kaschatapp/static/js/main.bf37d478.js",
+    "static/js/453.cdadf6e8.chunk.js": "/your-repo-namehttps://github.com/Samirahmadfaruki/kaschatapp/static/js/453.cdadf6e8.chunk.js",
+    "index.html": "/your-repo-namehttps://github.com/Samirahmadfaruki/kaschatapp/index.html",
+    "main.e6c13ad2.css.map": "/your-repo-namehttps://github.com/Samirahmadfaruki/kaschatapp/static/css/main.e6c13ad2.css.map",
+    "main.bf37d478.js.map": "/your-repo-namehttps://github.com/Samirahmadfaruki/kaschatapp/static/js/main.bf37d478.js.map",
+    "453.cdadf6e8.chunk.js.map": "/your-repo-namehttps://github.com/Samirahmadfaruki/kaschatapp/static/js/453.cdadf6e8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.bf37d478.js"
+  ]
+}
